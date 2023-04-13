@@ -9,7 +9,7 @@ Este projeto foi desenvolvido durante o curso de HTML e CSS na plataforma Alura,
 ## O projeto foi implementado e está disponível para visualização na plataforma Vercel, por meio do seguinte link:
 
 https://aluraplus-tau-lemon-82.vercel.app/
-![Imagem](D:\DOWN\alura-plus.png)
+![Imagem](https://ibb.co/fXq9JLW)
 
 
 ## Autor
